@@ -16,6 +16,8 @@
             <li class="cabecalho-lista-item">Estudante</li>
         </ul>
     </header>
+
+    
     <section class="escola">
         <div class="escola-div-conteudo">
             <h2 class="escola-titulo">Colégio Estadual Irmã Maria Margarida</h2>
